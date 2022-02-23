@@ -1,0 +1,6 @@
+Color red
+Name Maftuna
+Age 21
+Id u522111
+nation 3333
+name myD
