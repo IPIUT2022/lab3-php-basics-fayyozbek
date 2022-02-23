@@ -31,7 +31,7 @@
 			
 	}
 
-	else echo "Ошибка при открытии файла";
+	else echo "There is no such file <br> <h1> :( </h1> <br>";
 	fclose($fp);
 
 
